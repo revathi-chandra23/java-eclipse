@@ -1,0 +1,3 @@
+lines are in another file 4
+ words in the another file 5
+ characters in the another file 35
