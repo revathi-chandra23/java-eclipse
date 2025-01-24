@@ -20,7 +20,7 @@ public class CountsofcharsWordsLines {
                     while((line=br.readLine())!=null){
                         lines++;
                         characters+=line.length();
-                        String[] words = line.split("\\s+");
+                        String[] words = line.split(" ");
                         word += words.length;
                     }
                     System.out.println(lines);

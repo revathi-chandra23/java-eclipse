@@ -1,0 +1,27 @@
+ JUST DATA FILE
+vamshee
+revathi chandra
+tannidi
+atyeti
+
+MOVIES FILE
+pushpa
+game changer
+run
+RRR
+
+NUMBERS FILE
+1
+2
+3
+4
+5
+
+ALPHABETS FILE
+A B C D
+E F G H
+I J K L
+M N O P
+Q R S T
+U V W X
+Y Z 0 0
